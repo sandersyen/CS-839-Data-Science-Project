@@ -1,0 +1,495 @@
+Afghanistan
+Albania
+Algeria
+America
+Andorra
+Angola
+Antigua
+Argentina
+Armenia
+Australia
+Austria
+Azerbaijan
+Bahamas
+Bahrain
+Bangladesh
+Barbados
+Belarus
+Belgium
+Belize
+Russians
+Europeans
+Benin
+Bhutan
+Bissau
+Bolivia
+Bosnia
+Botswana
+Brazil
+British
+Britan
+Brunei
+Bulgaria
+Burkina
+Burma
+Burundi
+Cambodia
+Cameroon
+Canada
+Cape Verde
+Central African Republic
+Chad
+Chile
+China
+Colombia
+Comoros
+Congo
+Costa Rica
+country debt
+Croatia
+Cuba
+Cyprus
+Czech
+Denmark
+Djibouti
+Dominica
+East Timor
+Ecuador
+Egypt
+El Salvador
+Emirate
+England
+Eritrea
+Estonia
+Ethiopia
+Russian
+Fiji
+Finland
+France
+Gabon
+Gambia
+Georgia
+French
+Germany
+Ghana
+Great Britain
+Europe
+European
+Britain
+Greece
+Grenada
+Grenadines
+Guatemala
+Guinea
+Guyana
+Haiti
+Herzegovina
+Honduras
+Hungary
+Iceland
+in usa
+India
+Indian
+Indonesia
+Iran
+Iraq
+Ireland
+Israel
+Italy
+Ivory Coast
+Jamaica
+Japan
+Jordan
+Kazakhstan
+Kenya
+Kiribati
+Korea
+Kosovo
+Kuwait
+Kyrgyzstan
+Laos
+Latvia
+Lebanon
+Lesotho
+Liberia
+Libya
+Liechtenstein
+Lithuania
+Luxembourg
+Macedonia
+Madagascar
+Malawi
+Malaysia
+Maldives
+Mali
+Malta
+Marshall
+Mauritania
+Mauritius
+Mexico
+Micronesia
+Moldova
+Monaco
+Mongolia
+Montenegro
+Morocco
+Mozambique
+Myanmar
+Namibia
+Nauru
+Nepal
+Netherlands
+New Zealand
+Nicaragua
+Niger
+Nigeria
+Norway
+Oman
+Pakistan
+Palau
+Panama
+Papua
+Paraguay
+Peru
+Philippines
+Poland
+Portugal
+Qatar
+Romania
+Russia
+Rwanda
+Samoa
+San Marino
+Sao Tome
+Saudi Arabia
+scotland
+scottish
+Senegal
+Serbia
+Seychelles
+Sierra Leone
+Singapore
+Slovakia
+Slovenia
+Solomon
+Somalia
+South Africa
+Africa
+South Sudan
+Spain
+Sri Lanka
+St. Kitts
+St. Lucia
+St Kitts
+St Lucia
+Saint Kitts
+Santa Lucia
+Sudan
+Suriname
+Swaziland
+Sweden
+Switzerland
+Syria
+Taiwan
+Tajikistan
+Tanzania
+Thailand
+Tobago
+Togo
+Tonga
+Trinidad
+Tunisia
+Turkey
+Turkmenistan
+Tuvalu
+Uganda
+Ukraine
+United Kingdom
+United States
+Uruguay
+USA
+US
+UK
+Uzbekistan
+Vanuatu
+Vatican
+Venezuela
+Vietnam
+wales
+welsh
+Yemen
+Zambia
+Zimbabwe
+Afghan
+Albanian
+Algerian
+American
+Andorran
+Angolan
+Antiguans
+Argentinean
+Armenian
+Australian
+Austrian
+Azerbaijani
+Bahamian
+Bahraini
+Bangladeshi
+Barbadian
+Barbudans
+Batswana
+Belarusian
+Belgian
+Bourgeoi
+Bourgeoisie
+Belizean
+Beninese
+Bhutanese
+Bolivian
+Beverly Hills
+Bosnian
+Brazilian
+British
+Bruneian
+Bulgarian
+Burkinabe
+Burmese
+Burundian
+Cambodian
+Cameroonian
+Canadian
+Cape Verdean
+Central African
+Chadian
+Chilean
+Chinese
+Colombian
+Comoran
+Congolese
+Costa Rican
+Croatian
+Cuban
+Cypriot
+Czech
+Danish
+Djibouti
+Dominican
+Dutch
+East Timorese
+Ecuadorean
+Egyptian
+Emirian
+Equatorial Guinean
+Eritrean
+Estonian
+Ethiopian
+Fijian
+Filipino
+Finnish
+French
+Gabonese
+Gambian
+Georgian
+German
+Ghanaian
+Greek
+Grenadian
+Guatemalan
+Guinea-Bissauan
+Guinean
+Guyanese
+Haitian
+Herzegovinian
+Honduran
+Hungarian
+I-Kiribati
+Icelander
+Indian
+Indonesian
+Iranian
+Iraqi
+Irish
+Israeli
+Italian
+Ivorian
+Jamaican
+Japanese
+Jordanian
+Kazakhstani
+Kenyan
+Kittian
+Nevisian
+Kuwaiti
+Kyrgyz
+Laotian
+Latvian
+Lebanese
+Liberian
+Libyan
+Liechtensteiner
+Lithuanian
+Luxembourger
+Macedonian
+Malagasy
+Malawian
+Malaysian
+Maldivian
+Malian
+Maltese
+Marshallese
+Mauritanian
+Mauritian
+Mexican
+Micronesian
+Moldovan
+Monacan
+Mongolian
+Moroccan
+Mosotho
+Motswana
+Mozambican
+Namibian
+Nauruan
+Nepalese
+New Zealander
+Ni-Vanuatu
+Nicaraguan
+Nigerian
+Nigerien
+North Korean
+Northern Irish
+Norwegian
+Omani
+Pakistani
+Palauan
+Panamanian
+Papua New Guinean
+Paraguayan
+Peruvian
+Polish
+Portuguese
+Qatari
+Romanian
+Russian
+Rwandan
+Saint Lucian
+Salvadoran
+Samoan
+San Marinese
+Sao Tomean
+Saudi
+Scottish
+Senegalese
+Serbian
+Seychellois
+Sierra Leonean
+Singaporean
+Slovakian
+Slovenian
+Solomon Islander
+Somali
+South African
+South Korean
+Spanish
+Sri Lankan
+Sudanese
+Surinamer
+Swazi
+Swedish
+Swiss
+Syrian
+Taiwanese
+Tajik
+Tanzanian
+Thai
+Togolese
+Tongan
+Trinidadian
+Tobagonian
+Tunisian
+Turkish
+Tuvaluan
+Ugandan
+Ukrainian
+Uruguayan
+Uzbekistani
+Uzbekistan
+Venezuelan
+Vietnamese
+Welsh
+Yemenite
+Zambian
+Zimbabwean
+Monday
+Tuesday
+Wednesday
+Thursday
+Friday
+Saturday
+Sunday
+Beijing
+Chicago
+Taoyuan
+San Antonio
+Toronto
+New York
+English
+Pennsylvania
+South Carolina
+Texas
+Wisconsin
+St Paul
+London
+Soho
+Brexit
+Britain
+Manchester
+Middle Eastern
+Taipei
+Vienna
+EU
+Yemeni
+Europe
+European
+South America
+South American
+Asia
+Asian
+Oceania
+Oceanian
+Africa
+African
+Antartica
+Pacific
+Atlantic
+Mediterranean
+Scot
+Scots
+Korean
+California
+Swedes
+Swede
+Zurich
+Yemenis
+Western
+Chicago
+northeast
+southeast
+southwest
+northwest
+northern
+western
+eastern
+sourthern
+States
+state
+Limburger
+Limburgers
+Country
+Countries
+City
+Cities
+County
+Counties
+York
+Madison
