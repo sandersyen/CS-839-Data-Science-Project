@@ -10,9 +10,9 @@ tag = {'header': '<div class="last col" id="metacol">',
        'Name': ('<h1 class="gr-h1 gr-h1--serif" id="bookTitle" itemprop="name">', '</h1>'),
        'Author': ('<span itemprop="name">', '</span>'),
        'Format': ('<span itemprop="bookFormat">', '</span>'),
-       'Pages': ('<span itemprop="numberOfPages">', 'pages'),
+       'Pages': ('<span itemprop="numberOfPages">', 'page'),
        'Published Date': ('Published', 'by'),
-       'ISBN_10': ('ISBN</div>\n<div class="infoBoxRowItem">', '<span class="greyText">'),
+       'ISBN_10': ('ISBN</div>\n<div class="infoBoxRowItem">', '<'),
        'ISBN_13': ('ISBN13: <span itemprop="isbn">', '</span>'),
        'Language': ('<div class="infoBoxRowItem" itemprop="inLanguage">', '</div>')}
 
