@@ -5,7 +5,7 @@ import requests
 from bs4 import BeautifulSoup
 from requests import ConnectionError, RequestException
 
-headers = ['ID', 'Name', 'Author', 'Format', 'Page', 'Language', 'ISBN_10', 'ISBN_13']
+headers = ['Name', 'Author', 'Format', 'Page', 'Language', 'ISBN_10', 'ISBN_13']
 
 tag = {'header': '<div class="item-info">',
        'Name': ('<h1 itemprop="name">', '</h1>'),
@@ -34,12 +34,11 @@ def extract_specific_feature(feature, html, index, data, i1, i2):
     return end_index + len(i2)
 
 
-def info_extraction(url, df, entry_id):
+def info_extraction(url, df):
     """
     Extract information from a url
     :param url: the web page to extract info from
     :param df: data frame to store all tuples
-    :param entry_id: the id of this entry
     :return: updated df
     """
     # request html text from the url
@@ -53,17 +52,15 @@ def info_extraction(url, df, entry_id):
     # initialise
     index = html.index(tag['header'])       # index of current position in html
     data = dict()                           # data frame to store desired info
-    data['ID'] = 'BD' + str(entry_id)
 
     # information extraction
-    for header in headers[1:]:
+    for header in headers:
         index = extract_specific_feature(feature=header, html=html, index=index,
                                          data=data, i1=tag[header][0], i2=tag[header][1])
     return df.append(data, ignore_index=True)
 
 
 def main():
-    entry_id = 0
     urls = pd.read_csv('data/urls_source1.csv')                 # load the urls got
 
     # check if the file exists. create file if not exists
@@ -71,13 +68,12 @@ def main():
         with open('data/data_source1.csv', 'a') as f:
             pd.DataFrame(columns=headers).to_csv(f, sep=',', index=False, header=True)
 
-    for i in range(len(['url'])):
+    for i in range(len(urls)):
         df = pd.DataFrame(columns=headers)              # data frame for storing info for the current url
         print(i, urls['url'][i])
         # use try except to prevent from some specific links whose info cannot be extracted
         try:
-            df = info_extraction(urls['url'][i], df, entry_id)
-            entry_id += 1
+            df = info_extraction(urls['url'][i], df)
         except ValueError:
             print(str(i) + ' has value error')
             continue
@@ -89,7 +85,7 @@ def main():
     # remove duplication
     df = pd.read_csv('data/data_source1.csv')
     df.drop_duplicates(subset=['Name', 'Author'], keep="first", inplace=True)
-    df.to_csv('data/data_source1.csv', index=False)
+    df.to_csv('data/data_source1.csv', index=True)
 
 
 if __name__ == "__main__":
